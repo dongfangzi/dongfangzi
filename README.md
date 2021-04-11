@@ -2,7 +2,7 @@
 
 简单的前端人员，喜欢学习有趣的项目。
   我的[网站](wwww.dongfangzi13.xyz)
- 
+ 喜欢古风和人工智能
 
 <!--
 **dongfangzi/dongfangzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
